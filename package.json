@@ -1,0 +1,25 @@
+{
+  "name": "asynchronous-in-js",
+  "version": "1.0.0",
+  "description": "Asynchronous in js",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FelipeAndresLopez/asynchronous-in-js.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promises",
+    "callbacks"
+  ],
+  "author": "Felipe López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeAndresLopez/asynchronous-in-js/issues"
+  },
+  "homepage": "https://github.com/FelipeAndresLopez/asynchronous-in-js#readme"
+}
